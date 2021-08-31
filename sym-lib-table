@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Project_Specific)(type Legacy)(uri /home/bwmott/projects/PCBs/U1MB600XL/lib/2364.lib)(options "")(descr ""))
+)
